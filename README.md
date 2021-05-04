@@ -1,4 +1,4 @@
-# hola-mundo
-mi primer repositorio de prueba
+# hola Mundo
+mi primer repositorio
 
 Autor: Diego Martínez Tabarez
